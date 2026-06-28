@@ -1,0 +1,11 @@
+# Node modules (if using packages)
+node_modules/
+
+# Cloudflare Wrangler local states and secrets
+.wrangler/
+wrangler.json.local
+.dev.vars
+
+# OS specific files
+.DS_Store
+Thumbs.db
